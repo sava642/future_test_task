@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfuture_test_task=self.webpackChunkfuture_test_task||[]).push([[167],{6167:function(t,e,a){a.r(e);var n=a(6656),s=a(1694),_=a.n(s),u=a(2791),i=a(9034),o=a(184),r=(0,u.memo)((function(){return(0,o.jsx)("div",{className:_()(n.Z.container),"data-testid":"card-details-page",children:(0,o.jsx)(i.u,{})})}));e.default=r},6656:function(t,e){e.Z={book_list:"MainPage_book_list__ApKzJ",btn_load_more:"MainPage_btn_load_more__PZ6+M"}}}]);
+//# sourceMappingURL=167.6243d33a.chunk.js.map
