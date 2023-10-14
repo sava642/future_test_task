@@ -18,7 +18,7 @@ function App() {
   return (
     <div className={classNames("app wrapper", {}, [theme])}>
       <Switch toggleTheme={toggleTheme} />
-      <BrowserRouter>
+      <BrowserRouter basename="/future_test_task">
         <Routes>
           <Route
             path="/"
