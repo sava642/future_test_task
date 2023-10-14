@@ -1,0 +1,49 @@
+# Dependency directories
+/node_modules
+
+# Production build
+/build
+
+# Local development environment
+/.env.local
+/.env.development
+/.env.test
+/.env.production
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# Other
+*.backup
+*.bak
+*.log
